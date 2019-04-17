@@ -1,4 +1,4 @@
-package net.Services;
+package net.services;
 
 import net.entities.User;
 

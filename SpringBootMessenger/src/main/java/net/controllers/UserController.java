@@ -1,6 +1,6 @@
 package net.controllers;
 
-import net.Services.UsersService;
+import net.services.UsersService;
 import net.entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
